@@ -1,7 +1,7 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: programa
+  binding: program
   inspection: Uses:ServirSánguche
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
