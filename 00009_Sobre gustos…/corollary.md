@@ -1,0 +1,1 @@
+¡Excelente! Acabás de definir un procedimiento con parámetro y de invocarlo con un tipo de pan. Veamos cómo usarlo en el próximo ejercicio con pan blanco. 

@@ -1,0 +1,1 @@
+Recordá que para crear un bloque del parámetro `pan` podés tocar la manito que aparece al lado. Cuando lo invoques en el programa, ya no necesitarás el parámetro, sino el color que le pases como argumento.
