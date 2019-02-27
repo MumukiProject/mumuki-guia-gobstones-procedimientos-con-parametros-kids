@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:ServirComida
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ServirComida
+  inspection: Uses:ServirSánguche
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:ServirComida
